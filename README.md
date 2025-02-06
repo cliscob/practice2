@@ -1,2 +1,2 @@
 # practice2
-### creación de repositorio publico ###
+## creación de repositorio publico.
